@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is gonna be a Work in Progress, because...
+- 🌱 I’m currently learning MarkDown 😄
+
 <!--
 **nickydewestelinck/nickydewestelinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
