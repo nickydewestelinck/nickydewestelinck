@@ -2,6 +2,11 @@
 
 This is gonna be a Work in Progress, because...
 - 🌱 I’m currently learning MarkDown 😄
+---
+## Social Media
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ndewestelinck?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/NickyDeWestelinck?style=social)
 
 <!--
 **nickydewestelinck/nickydewestelinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
