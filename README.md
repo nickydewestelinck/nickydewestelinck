@@ -5,6 +5,8 @@ This is gonna be a Work in Progress, because...
 ---
 ## Experience
 ---
+To be continued!
+
 ## Social Media
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ndewestelinck?style=social)](https://www.twitter.com/ndewestelinck)
