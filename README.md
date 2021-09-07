@@ -1,6 +1,6 @@
 # Nicky De Westelinck | *Modern Workplace Consultant*
-## 👨‍💻 About Me
-Hi there 👋, my name is Nicky De Westelinck and I'm a Modern Workplace Consultant for [Wortell Belgium](https://www.wortell.be). My main focus are projects regarding **Microsoft Endpoint Manager** (Intune). 
+## 👨🏻‍💻 About Me
+Hi there 👋🏻, my name is Nicky De Westelinck and I'm a Modern Workplace Consultant for [Wortell Belgium](https://www.wortell.be). My main focus are projects regarding **Microsoft Endpoint Manager** (Intune). 
 
 
 
