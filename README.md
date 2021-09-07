@@ -3,7 +3,7 @@
 Hi there 👋🏻, my name is Nicky De Westelinck and I'm a Modern Workplace Consultant for [Wortell Belgium](https://www.wortell.be). My main focus are projects regarding **Microsoft Endpoint Manager** (Intune). 
 
 ## 👉🏻 Get in touch
-[![Linkedin Badge](https://img.shields.io/badge/-nickydewestelinck-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickydewestelinck/)](https://www.linkedin.com/in/nickydewestelinck/)
+[![Linkedin Badge](https://img.shields.io/badge/-nickydewestelinck-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickydewestelinck/)](https://www.linkedin.com/in/nickydewestelinck/)
 [![Github Badge](https://img.shields.io/badge/-nickydewestelinck-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nickydewestelinck/)](https://www.github.com/nickydewestelinck/)
 [![Twitter Badge](https://img.shields.io/badge/-ndewestelinck-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ndewestelinck/)](https://www.twitter.com/ndewestelinck)
 
