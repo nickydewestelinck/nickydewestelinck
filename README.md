@@ -4,8 +4,8 @@ Hi there 👋🏻, my name is Nicky De Westelinck and I'm a Modern Workplace Con
 
 ## 👉🏻 Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-nickydewestelinck-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickydewestelinck/)](https://www.linkedin.com/in/nickydewestelinck/)
-[![Github Badge](https://img.shields.io/badge/-nickydewestelinck-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nickydewestelinck/)](https://www.github.com/nickydewestelinck/)
-[![Twitter Badge](https://img.shields.io/badge/-ndewestelinck-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ndewestelinck/)](https://www.twitter.com/ndewestelinck)
+[![Github Badge](https://img.shields.io/badge/-nickydewestelinck-24292F?style=flat&logo=github&logoColor=white&link=https://github.com/nickydewestelinck/)](https://www.github.com/nickydewestelinck/)
+[![Twitter Badge](https://img.shields.io/badge/-ndewestelinck-1D9BF0?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ndewestelinck/)](https://www.twitter.com/ndewestelinck)
 
 <!--
 **nickydewestelinck/nickydewestelinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
