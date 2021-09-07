@@ -5,7 +5,7 @@ This is gonna be a Work in Progress, because...
 ---
 ## Experience
 ---
-To be continued!
+I'm a Modern Workplace Consultant for [Wortell Belgium](https://wortell.be)
 
 ## Social Media
 
