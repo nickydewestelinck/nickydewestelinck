@@ -30,9 +30,11 @@ Do you want to get in touch? Feel free to connect on my socials! 👍🏻
 [![PolyWork Badge](https://img.shields.io/badge/-ndewestelinck-40BE88?style=flat&logo=Polywork&logoColor=white&link=https://www.polywork.com/ndewestelinck/)](https://www.polywork.com/ndewestelinck/)
 
 ## 📜 Microsoft Certification Badges
+![image](https://images.credly.com/size/100x100/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png)
+![image](https://images.credly.com/size/100x100/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png)
 ![image](https://images.credly.com/size/100x100/images/dbc3530b-af8c-4fa1-8d9c-cdfbd9edf462/microsoft365-modern-desktop-administrator-associate-600x600.png)
 ![image](https://images.credly.com/size/100x100/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)
-![image](https://images.credly.com/size/100x100/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png)
+![image](https://images.credly.com/size/100x100/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)
 ![image](https://images.credly.com/size/100x100/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)
 ![image](https://images.credly.com/size/100x100/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png)
 ![image](https://images.credly.com/size/100x100/images/131708c5-86aa-4ce7-80c9-0287a363e1de/microsoft365-teamwork-administrator-associate-600x600.png)
