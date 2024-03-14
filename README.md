@@ -1,6 +1,6 @@
 # Nicky De Westelinck | *Modern Workplace Consultant*
 ## 👨🏻‍💻 About Me
-Hi there 👋🏻, my name is Nicky De Westelinck and I'm a Modern Workplace Consultant for [Wortell Belgium](https://www.wortell.be). I was born in the magical year 1982, (the year that the groundbreaking album “Thriller” by the late Michael Jackson was released and also the debut of the popular science fiction movie “E.T. the Extra-Terrestrial”), in the beautiful city of Antwerp, Belgium.
+Hi there 👋🏻, my name is Nicky De Westelinck and I'm a Modern Workplace Expert for [Arxus](https://www.arxus.eu) (part of the Cronos Group). I was born in the magical year 1982, (the year that the groundbreaking album “Thriller” by the late Michael Jackson was released and also the debut of the popular science fiction movie “E.T. the Extra-Terrestrial”), in the beautiful city of Antwerp, Belgium.
 
 Besides my life as a consultant and my interest in IT, I’m also interested in basketball (passive and a little bit active), rum & cigars, beer, nature walks, and books (Toni Coppers, M.J. Arlidge, Dan Brown, etc…).
 
