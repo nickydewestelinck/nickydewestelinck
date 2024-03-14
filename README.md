@@ -12,6 +12,7 @@ My main focus are projects regarding **Microsoft Intune**.
 It all started back in 2009, the year I decided to take an IT course and became a Network Administrator. After doing an internship, I was offered a contract so my career in IT was launched (big thanks to everybody at [ECX ICT Business Solutions](https://www.ecx.be)). Started as a Helpdesk Engineer, Junior System Engineer, and finally became a System Engineer.
 
 The past couple of years a created a big interest in everything related to Microsoft 365, so this became my main focus. To give my career a second boost I decided to join Wortell Belgium (formerly known as Synergics) in February 2020 as a Microsoft 365 Support Engineer. My enthusiasm for the job gave me the opportunity to join the Project team in June 2021, as a Modern Workplace Consultant.
+After 4 years I decided to leave Wortell and join Arxus as a Modern Workplace Expert with a focus on Microsoft Intune.
 
 My main focus/passion is Microsoft Intune but also Teams Administration, Exchange Online migrations, and Microsoft 365 Administration are part of the job.
 
