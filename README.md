@@ -1,26 +1,26 @@
 # Nicky De Westelinck | *Modern Workplace Expert*
 ## 👨🏻‍💻 About Me
-Hi there 👋🏻, my name is Nicky De Westelinck and I'm a Modern Workplace Expert for [Arxus](https://www.arxus.eu) (part of the Cronos Group). I was born in the magical year 1982, (the year that the groundbreaking album “Thriller” by the late Michael Jackson was released and also the debut of the popular science fiction movie “E.T. the Extra-Terrestrial”), in the beautiful city of Antwerp, Belgium.
+Hi there 👋🏻, my name is Nicky De Westelinck and I'm a Modern Workplace Expert for [Wortell Belgium](https://www.wortell.be). I was born in the magical year 1982 (the year that the groundbreaking album “Thriller” by the late Michael Jackson was released and also the debut of the popular science fiction movie “E.T. the Extra-Terrestrial”), in the beautiful city of Antwerp, Belgium.
 
-Besides my life as a consultant and my interest in IT, I’m also interested in basketball (passive and a little bit active), rum & cigars, beer, nature walks, and books (Toni Coppers, M.J. Arlidge, Dan Brown, etc…).
+Besides my life as a consultant and my interest in IT, I’m also interested in basketball (passive and a little bit active), rum & cigars, beer, nature walks, and books (Toni Coppers, Dan Brown, etc).
 
-But the most important in my life are my family, my lovely girlfriend, and our two crazy cats (Fonzie and Mokka).
+But the most important people in my life are my family, my lovely girlfriend, and our two crazy cats (Fonzie and Mokka).
 
-My main focus are projects regarding **Microsoft Intune**. 
+My main focus is projects regarding **Microsoft Intune**. 
 
 ## ⚙️ My Experience
 It all started back in 2009, the year I decided to take an IT course and became a Network Administrator. After doing an internship, I was offered a contract so my career in IT was launched (big thanks to everybody at [ECX ICT Business Solutions](https://www.ecx.be)). Started as a Helpdesk Engineer, Junior System Engineer, and finally became a System Engineer.
 
 The past couple of years a created a big interest in everything related to Microsoft 365, so this became my main focus. To give my career a second boost I decided to join Wortell Belgium (formerly known as Synergics) in February 2020 as a Microsoft 365 Support Engineer. My enthusiasm for the job gave me the opportunity to join the Project team in June 2021, as a Modern Workplace Consultant.
-After 4 years I decided to leave Wortell and join Arxus as a Modern Workplace Expert with a focus on Microsoft Intune.
+After 4 years I decided to leave Wortell and join Arxus as a Modern Workplace Expert with a focus on Microsoft Intune. In April 2025 I decided to go back and join forces again with Wortell Belgium as a Senior Modern Workplace Consultant.
 
 My main focus/passion is Microsoft Intune but also Teams Administration, Exchange Online migrations, and Microsoft 365 Administration are part of the job.
 
 As of August 2021, I’m also a Microsoft Certified Trainer, something I want to become more active in the future.
 
 ## 🔮 Where do I see myself in the future?
-I think everybody with a passion has a certain ambition in life. Mine is to become more active in Tech Communities, attend events and become an expert in Microsoft Intune. Who knows maybe one day a Microsoft MVP!
-Never stop dreaming right?
+I think everybody with a passion has a certain ambition in life. Mine is to become more active in Tech Communities, attend events and become an expert in Microsoft Intune. Who knows, maybe one day a Microsoft MVP!
+Never stop dreaming, right?
 
 ## 👉🏻 Get in touch
 Do you want to get in touch? Feel free to connect on my socials! 👍🏻
